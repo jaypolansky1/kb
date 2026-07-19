@@ -12,15 +12,16 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://chase-the-split-kb.com',
+  url: 'https://jaypolansky1.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/Chase-The-Split-Knowledge-Base/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'jaypolansky1', // Usually your GitHub org/user name.
   projectName: 'Chase-The-Split-Knowledge-Base', // Usually your repo name.
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -43,14 +44,14 @@ const config = {
           // Please change this to your repo.
           // Remove this line if you don't want to edit on GitHub
           editUrl:
-            'https://github.com/jaypolansky1/Chase-The-Split-Knowledge-Base/tree/main/',
+            'https://github.com/jaypolansky1/Chase-The-Split-Knowledge-Base/tree/docusaurus-setup/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this line if you don't want to edit on GitHub
           editUrl:
-            'https://github.com/jaypolansky1/Chase-The-Split-Knowledge-Base/tree/main/',
+            'https://github.com/jaypolansky1/Chase-The-Split-Knowledge-Base/tree/docusaurus-setup/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
