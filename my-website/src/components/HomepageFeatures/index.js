@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Personal Records',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Track your all-time best splits across every distance, updated automatically with each workout you import.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Pace Progression',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Your journey to goal pace, visualized — filter by 15 days to a full year and see the trend, your best split, and your In Zone count at a glance.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'AI Coach',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Turn your data into a plan: ask what to row tomorrow, why your pace stalled, or how close you are to your goal, and get specific, data-driven answers.
       </>
     ),
   },
