@@ -85,7 +85,7 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'My Site',
+        title: 'Knowledge Base',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
