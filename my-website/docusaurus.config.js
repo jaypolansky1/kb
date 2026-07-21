@@ -33,6 +33,7 @@ const config = {
   onBrokenLinks: 'throw',
 
   // Even if you don't use internationalization, you can use this field to set
+  // useful metadata like html lang. For example, if you don't use internationalization, you may use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
@@ -112,7 +113,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/intro',
+                to: '/docs/',
               },
             ],
           },
