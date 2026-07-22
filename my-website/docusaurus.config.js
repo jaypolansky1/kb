@@ -125,6 +125,15 @@ const config = {
               },
             ],
           },
+           {
+            title: 'Multimedia',
+            items: [
+              {
+                label: 'Product Video',
+                to: 'https://share.zight.com/WnugAEg6',
+              },
+            ],
+          },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Chase The Split. Built with Docusaurus.`,
       },
