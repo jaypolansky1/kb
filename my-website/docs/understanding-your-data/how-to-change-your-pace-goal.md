@@ -1,6 +1,6 @@
 ---
 
-title: How to Change Your Pace Goal
+title: How to Change your Pace Goal
 
 ---
 
