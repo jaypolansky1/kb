@@ -1,6 +1,6 @@
 ---
 
-title: How to Reset Your Password
+title: How to Reset your Password
 
 ---
 
