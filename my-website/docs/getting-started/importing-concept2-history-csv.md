@@ -12,7 +12,7 @@ Go to the Concept2 website (www.concept2.com). Select the Logbook tab on the top
 
 #### Step 2
 
-Click the LOGIN button in the upper right.
+Click the **LOGIN** button in the upper right.
 
 #### Step 3
 
@@ -24,7 +24,7 @@ Select the History tab on the top toolbar.
 
 #### Step 5
 
-Click the CSV button next to a season.
+Click the **CSV** button next to a season.
 
 #### Step 6
 
@@ -36,4 +36,4 @@ Drag and drop your CSV (or click to browse) in the upload window.
 
 #### Step 8
 
-Select the file in the pop-up window and click the Open button.
+Select the file in the pop-up window and click the **Open** button.
