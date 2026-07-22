@@ -1,6 +1,6 @@
 ---
 
-title: Import Concept2 Logbook By CSV
+title: Import Concept2 Logbook by CSV
 
 ---
 
