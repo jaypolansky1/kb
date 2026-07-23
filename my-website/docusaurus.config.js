@@ -88,7 +88,7 @@ const config = {
         title: 'Knowledge Base',
         logo: {
           alt: 'Chase The Split Logo',
-          src: './docs/logo.png',
+          src: './img/logo.png',
         },
         items: [
           {
