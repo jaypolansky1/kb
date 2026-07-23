@@ -6,6 +6,8 @@ title: What do the Pace Zones Mean? (In Zone, Near Miss, Building)
 
 Every workout on your dashboard is color-coded into one of three pace zones. The zones are based on your average pace per 500m compared to your personal pace goal — so they're unique to you, and they update automatically if you ever change your goal.
 
+![Pace Zone](Pace-Zone.png)
+
 #### In Zone (green)
 
 Your average pace was at or faster than your goal. If your goal is 2:00 and you row a 1:58.5, that workout is In Zone. These are the sessions you're chasing — your dashboard counts them, and your In Zone total is one of the fastest ways to see your progress over time.
