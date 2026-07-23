@@ -10,6 +10,8 @@ Your pace goal is the target 500m split that drives everything on your dashboard
 
 At the top of your dashboard you'll see a dropdown showing your current goal (for example, 2:00). Click it to open the full list of available goals, ranging from 1:25 to 2:30 per 500m in 5-second steps.
 
+![Pace Selection](Pace-Selection.png)
+
 #### Changing your goal
 
 Just pick a new pace from the dropdown. The change saves instantly to your account — no confirmation needed — and applies everywhere, on every device you log in from.
@@ -22,7 +24,7 @@ Every zone and chart on your dashboard re-shades immediately based on your new t
 * Near Miss (yellow) — workouts within 5 seconds of your goal
 * Building (orange) — workouts more than 5 seconds over your goal
 
-You'll also see:
+The following datapoints are also displayed:
 
 * The dashed goal line on your pace progression chart moves to the new pace, and the shaded goal zone follows it
 * Your In Zone count and streaks recalculate against the new target
