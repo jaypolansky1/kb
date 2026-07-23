@@ -112,7 +112,7 @@ const config = {
             items: [
               {
                 label: 'Docs',
-                to: '/docs/Features/using-the-ai-assistant',
+                to: '/docs/features/using-the-ai-assistant',
               },
             ],
           },
