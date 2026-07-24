@@ -20,7 +20,7 @@ Click the **LOGIN** button in the upper right.
 
 ## Step 3 — Log into the logbook
 
-Enter your Concept2 username and password and then click the Login button.
+Enter your Concept2 username and password and then click the **Login** button.
 
 ![Step 3](./CSV/Step-3.png)
 
