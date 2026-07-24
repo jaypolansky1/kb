@@ -6,7 +6,7 @@ title: Using the AI Assistant
 
 Your dashboard includes Chase The Split AI — a rowing coach and data analyst that has your actual training data in front of it when it answers. It's not generic advice: it reads your numbers first.
 
-#### What the AI knows about you
+## What the AI knows about you
 
 Every conversation starts with a live summary of your rowing data:
 
@@ -18,11 +18,11 @@ Every conversation starts with a live summary of your rowing data:
 
 It also knows your personal pace goal, so its advice is aimed at your target, not a generic one. If you change your goal, the AI's coaching adjusts too.
 
-#### What it's honest about
+## What it's honest about
 
 The AI only reasons from data you've imported. It doesn't see your heart rate zones, sleep, or anything outside Chase The Split — and if you ask about something that isn't in your data, it will say so rather than guessing.
 
-#### Example prompts to try
+## Example prompts to try
 
 The fastest way to get value from the AI is to ask specific questions. Try these:
 
@@ -33,7 +33,7 @@ The fastest way to get value from the AI is to ask specific questions. Try these
 * "How close am I to making my goal pace my everyday pace?"
 * "What should tomorrow's session look like based on what I did today?"
 
-#### Tips for better answers
+## Tips for better answers
 
 * Be specific. "How was last week?" works, but "Did my stroke rate improve at similar paces last week?" works better.
 * Ask follow-ups. It remembers the conversation, so you can dig into an answer: "OK — turn that into a 4-week plan."
