@@ -1,6 +1,6 @@
 ---
 
-title: What do the Pace Zones Mean? (In Zone, Near Miss, Building)
+title: What Do the Pace Zones Mean? (In Zone, Near Miss, Building)
 
 ---
 
