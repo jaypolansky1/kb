@@ -6,7 +6,7 @@ title: How to Reset Your Password
 
 Locked out? Chase The Split gives you two ways back in: an email reset code, or your security question. Both start from the Forgot password? link on the login page.
 
-## Option 1: Email reset code
+## Option 1 — Email reset code
 
 1. On the login page, click the "Forgot password ?" link. 
 ![Step 1](./Password/Step-1.png)
@@ -22,7 +22,7 @@ A few things to know about reset codes:
 * Each code works once. After a successful reset, the code can't be reused.
 * If you request multiple codes, use the most recent one.
 
-## Option 2: Security question
+## Option 2 — Security question
 
 If you set a security question when you created your account, you can use it instead:
 
