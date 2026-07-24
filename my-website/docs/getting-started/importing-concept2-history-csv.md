@@ -51,3 +51,5 @@ Drag and drop your CSV (or click to browse) in the upload window.
 ## Step 8
 
 Select the file in the pop-up window and click the **Open** button.
+
+![Step 8](./CSV/Step-8.png)
