@@ -8,7 +8,7 @@ Follow these four steps to link your Chase The Split dashboard with your Concept
 
 ## Step 1 — Start the connection between Concept2 and Chase The Split from your dashboard
 
-On your Chase The Split dashboard, click the blue Connect Concept2 button in the blue Concept2 card.
+On your Chase The Split dashboard, click the blue **Connect Concept2 button** in the blue Concept2 card.
 
 ![Step1](./API/Step-1.png)
 
