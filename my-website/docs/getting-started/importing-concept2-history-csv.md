@@ -38,7 +38,7 @@ Click the **CSV** button next to a season.
 
 ## Step 6 — Return to the Chase The Split Dashboard
 
-Navigate to the Chase The Split dashboard. Select Upload CSV on the left pane.
+Navigate to the Chase The Split dashboard. Select "Upload CSV" on the left pane.
 
 ![Step 6](./CSV/Step-6.png)
 
