@@ -8,7 +8,7 @@ Follow the below steps to export any season from your Concept2 Logbook as a CSV 
 
 ## Step 1 — Visit the Concept2 website
 
-Go to the Concept2 website (www.concept2.com). Select the Logbook tab on the top toolbar.
+Go to the Concept2 website (www.concept2.com). Select the "Logbook" tab on the top toolbar.
 
 ![Step 1](./CSV/Step-1.png)
 
