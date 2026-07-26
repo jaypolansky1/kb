@@ -8,7 +8,7 @@ Your pace goal is the target 500m split that drives everything on your dashboard
 
 ## Where to find the pace goal selector
 
-At the top of your dashboard, a dropdown displays your current goal (for example, 2:00). Click it to open the full list of available goals, ranging from 1:25 to 2:30 per 500m in 5-second steps.
+At the top of your dashboard, a dropdown displays your current goal (for example, 2:00). Click it to open the full list of available goals, ranging from 1:25 to 2:30 per 500m in five-second steps.
 
 ![Pace Selection](Pace-Selection.png)
 
