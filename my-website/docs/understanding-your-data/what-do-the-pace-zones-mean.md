@@ -24,11 +24,9 @@ Your average pace was more than 5 seconds over your goal. These are your base-bu
 
 The zones appear everywhere on your dashboard: as colored dots on your Pace Progression chart, as colors on the Efficiency chart, and as labels on each workout card. Hover over any dot on a chart to see the exact pace and zone for that session.
 
-Your goal tracker at the top of the dashboard also tallies your sessions by zone:
+Your goal tracker at the top of the dashboard also tallies your sessions by zone.
 
-Goal tracker widget showing Progress to Consistency bar with Near Misses, In Zone, and Spicy session counts
-
-You'll notice a bonus tier there: Spicy counts your sessions more than 5 seconds faster than your goal — the rows where you didn't just hit the target, you blew past it.
+Spicy counts your sessions more than 5 seconds faster than your goal — the rows where you didn't just hit the target, you blew past it.
 
 ## The zones follow your goal
 
