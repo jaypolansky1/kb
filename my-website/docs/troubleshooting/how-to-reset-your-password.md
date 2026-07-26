@@ -12,7 +12,7 @@ Locked out? Chase The Split gives you two ways back in: an email reset code, or 
 ![Step 1](./Password/Step-1.png)
 2. Choose the email reset option.
 ![Step 2](./Password/Reset-By-Email.png)
-3. Enter the email address on your account and submit. If an account with that email exists, we'll send a 6-character reset code.
+3. Enter the email address on your account and submit. If an account with that email exists, we'll send a six-character reset code.
 4. Check your inbox (and spam folder) for the code.
 5. Enter the code along with your new password.
 
