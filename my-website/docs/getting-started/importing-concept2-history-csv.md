@@ -4,7 +4,7 @@ title: Import Concept2 Logbook by CSV
 
 ---
 
-Follow the below steps to export any season from your Concept2 Logbook as a CSV file and upload it directly to Chase The Split.
+Follow the below steps to export any season from your Concept2 logbook as a CSV file and upload it directly to Chase The Split.
 
 ## Step 1 — Visit the Concept2 website
 
