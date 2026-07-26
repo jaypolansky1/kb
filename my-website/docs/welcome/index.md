@@ -4,9 +4,4 @@ title: All Articles
 slug: /
 ---
 
-import DocCardList from '@theme/DocCardList';
-import {useCurrentSidebarCategory} from '@docusaurus/plugin-content-docs/client';
-
-# All Articles
-
-<DocCardList />
+Welcome to the Chase The Split Knowledge Base! This site contains all the information you need to get up and running with Chase The Split and get the most out of the platform. Select a category on the left pane to find an article.
