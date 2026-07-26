@@ -26,7 +26,7 @@ Enter your Concept2 username and password and then click the **Login** button.
 
 ## Step 4 — Navigate to the History tab
 
-Select the History tab on the top toolbar.
+Select the "History" tab on the top toolbar.
 
 ![Step 4](./CSV/Step-4.png)
 
