@@ -1,7 +1,7 @@
 ---
 id: index
 title: All Articles
-slug: /docs
+slug: /
 ---
 
 import DocCardList from '@theme/DocCardList';
