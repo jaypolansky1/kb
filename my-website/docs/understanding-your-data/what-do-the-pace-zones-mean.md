@@ -30,7 +30,7 @@ Spicy counts your sessions more than 5 seconds faster than your goal — the row
 
 ## The zones follow your goal
 
-The zones aren't fixed at 2:00 — they're always relative to the pace goal you've chosen. Change your goal from 2:00 to 1:55, and every workout re-shades instantly against the new target. A session that was In Zone yesterday might show as a Near Miss today, because the bar moved, not because you got slower.
+The zones aren't fixed at 2:00 — they're always relative to the pace goal that you selected. Change your goal from 2:00 to 1:55, and every workout re-shades instantly against the new target. A session that was In Zone yesterday might show as a Near Miss today, because the bar moved, not because you got slower.
 
 ## How to use the zones
 
