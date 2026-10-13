@@ -32,7 +32,7 @@ Select the "History" tab on the top toolbar.
 
 ## Step 5 — Export the CSV file
 
-Click the **CSV** button next to a season.
+Click the **CSV** button next to a season. Download the file to your hard drive and remember where you save the file.
 
 ![Step 5](./CSV/Step-5.png)
 
@@ -44,7 +44,7 @@ Navigate to the Chase The Split dashboard. Select "Upload CSV" on the left pane.
 
 ## Step 7 — Upload the CSV file
 
-Drag and drop your CSV (or click to browse) in the upload window.
+Drag and drop your CSV file (or click to browse) in the upload window.
 
 ![Step 7](./CSV/Step-7.png)
 
