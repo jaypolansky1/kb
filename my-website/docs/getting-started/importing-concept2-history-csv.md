@@ -32,7 +32,7 @@ Select the "History" tab on the top toolbar.
 
 ## Step 5 — Export the CSV file
 
-Click the **CSV** button next to a season. Download the file to your hard drive and remember where you save the file.
+Click the **CSV** button next to a season. Download the file to your hard drive and remember where you save it.
 
 ![Step 5](./CSV/Step-5.png)
 
