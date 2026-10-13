@@ -1,6 +1,6 @@
 ---
 
-title: Connect to Concept2 Logbook
+title: Link Chase The Split with the Concept2 Logbook
 
 ---
 
