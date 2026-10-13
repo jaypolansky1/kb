@@ -6,7 +6,7 @@ title: Connect to Concept2 Logbook
 
 Follow these four steps to link your Chase The Split dashboard with your Concept2 account and automatically import your rowing workouts.
 
-## Step 1 — Start the connection between Concept2 and Chase The Split from your dashboard
+## Step 1 — Start the connection between Concept2 and Chase The Split
 
 On your Chase The Split dashboard, click the blue **Connect Concept2** button in the blue Concept2 card.
 
@@ -26,6 +26,6 @@ Click the green **Approve Chase The Split (Web)** button.
 
 ## Step 4 — Sync your Concept2 workouts to Chase The Split
 
-The Concept2 card now displays "Connected to Concept2" in the blue Concept2 card. Click the **Sync Workouts** button to pull in your rowing data.
+The Concept2 card now displays "Connected to Concept2" within the upper right box on your dashboard. Click the **Sync Workouts** button to pull in your rowing data.
 
 ![Step4](./API/Step-4.png)
