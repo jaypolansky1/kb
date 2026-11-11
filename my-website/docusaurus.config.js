@@ -46,17 +46,16 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        docs: {
-          sidebarPath: './sidebars.js',
+         docs: {
+        routeBasePath: '/',          // docs now live at the site root
+        sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
 
         },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
+      blog: false,                    // see note below
+      theme: {
+        customCss: './src/css/custom.css',
           },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
