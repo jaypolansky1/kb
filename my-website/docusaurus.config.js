@@ -46,26 +46,13 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-         docs: {
-        routeBasePath: '/',          // docs now live at the site root
-        sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-
+        docs: {
+          routeBasePath: '/',
+          sidebarPath: './sidebars.js',
+          // Change this to your repo, or remove it to remove the "edit this page" links.
+          editUrl: 'https://docs.chasethesplit.com/',
         },
-      blog: false,                    // see note below
-      theme: {
-        customCss: './src/css/custom.css',
-          },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'ignore',
-          onUntruncatedBlogPosts: 'ignore',
-        },
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },
