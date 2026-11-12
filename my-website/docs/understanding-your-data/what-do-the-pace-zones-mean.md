@@ -26,8 +26,6 @@ The zones appear everywhere on your dashboard: as colored dots on your Pace Prog
 
 Your goal tracker at the top of the dashboard also tallies your sessions by zone.
 
-Spicy counts your sessions more than 5 seconds faster than your goal — the rows where you didn't just hit the target, you blew past it.
-
 ## The zones follow your goal
 
 The zones aren't fixed at 2:00 — they're always relative to the pace goal that you selected. Change your goal from 2:00 to 1:55, and every workout re-shades instantly against the new target. A session that was In Zone yesterday might show as a Near Miss today, because the bar moved, not because you got slower.
