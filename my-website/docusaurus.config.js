@@ -96,7 +96,7 @@ const config = {
             items: [
               {
                 label: 'Docs',
-                to: '/docs/features/using-the-ai-assistant',
+                to: 'https://docs.chasethesplit.com/',
               },
             ],
           },
