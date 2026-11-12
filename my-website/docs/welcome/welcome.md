@@ -13,7 +13,7 @@ Welcome to the Chase The Split Knowledge Base! This site contains all the inform
 
 **Select a category on the left pane to find an article.**
 
-Chase The Split contains many features to help in your rowing journey:
+Chase The Split contains many features to help track your workouts:
 
 <div className="row">
   <div className="col col--4 text--center padding-horiz--md">
