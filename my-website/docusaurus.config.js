@@ -50,7 +50,7 @@ const config = {
           routeBasePath: '/',
           sidebarPath: './sidebars.js',
           // Change this to your repo, or remove it to remove the "edit this page" links.
-          editUrl: 'https://docs.chasethesplit.com/',
+          // editUrl: 'https://docs.chasethesplit.com/',
         },
         blog: false,
         theme: {
