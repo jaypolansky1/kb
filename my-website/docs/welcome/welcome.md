@@ -9,7 +9,7 @@ import Mountain from '@site/static/img/undraw_docusaurus_mountain.svg';
 import Tree from '@site/static/img/undraw_docusaurus_tree.svg';
 import Coach from '@site/static/img/undraw_docusaurus_react.svg';
 
-![Chase The Split Dashboard](/img/cover.png
+![Chase The Split Dashboard](/img/cover.png)
 
 <div className="row">
   <div className="col col--4 text--center padding-horiz--md">
