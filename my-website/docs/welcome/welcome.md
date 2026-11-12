@@ -1,6 +1,6 @@
 ---
 id: index
-title: Welcome
+title:
 slug: /
 ---
 
