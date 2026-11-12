@@ -69,7 +69,7 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'Knowledge Base',
+        title: 'Chase The Split Knowledge Base',
         logo: {
           alt: 'Chase The Split Logo',
           src: './img/logo.png',
