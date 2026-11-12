@@ -1,7 +1,8 @@
 ---
 id: index
-title:
+title: Welcome
 slug: /
+hide_title: true
 ---
 
 import Mountain from '@site/static/img/undraw_docusaurus_mountain.svg';
