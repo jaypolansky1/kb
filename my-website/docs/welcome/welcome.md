@@ -13,6 +13,13 @@ Welcome to the Chase The Split Knowledge Base! This site contains all the inform
 
 **Select a category on the left pane to find an article.**
 
+import DocCardList from '@theme/DocCardList';
+
+<DocCardList items={[
+  {type: 'link', label: 'Getting Started', href: '/docs/getting-started', description: 'Set up and connect your account'},
+  {type: 'link', label: 'Features', href: '/docs/features', description: 'Records, pace progression, AI Coach'},
+]} />
+
 Chase The Split contains many features to help track your workouts:
 
 <div className="row">
