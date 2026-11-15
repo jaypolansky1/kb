@@ -14,8 +14,8 @@ import Coach from '@site/static/img/undraw_docusaurus_react.svg';
 import DocCardList from '@theme/DocCardList';
 
 <DocCardList items={[
-  {type: 'link', label: 'Getting Started', href: '/docs/getting-started/connect-to-concept2-logbook', description: 'Set up and connect your account'},
-  {type: 'link', label: 'Features', href: '/docs/features/using-the-ai-assistant', description: 'Records, pace progression, AI Coach'},
+  {type: 'link', label: 'Getting Started', href: 'getting-started/connect-to-concept2-logbook', description: 'Set up and connect your account'},
+  {type: 'link', label: 'Features', href: 'features/using-the-ai-assistant', description: 'Records, pace progression, AI Coach'},
   {type: 'link', label: 'Understanding Your Data', href: 'understanding-your-data/how-to-change-your-pace-goal', description: 'Changing your pace goal, reading your efficiency charts'},
   {type: 'link', label: 'Troubleshooting', href: 'troubleshooting/how-to-reset-your-password', description: 'Resetting your passwords, troubleshooting workouts not syncing'},
 ]} />
