@@ -9,7 +9,7 @@ import Mountain from '@site/static/img/undraw_docusaurus_mountain.svg';
 import Tree from '@site/static/img/undraw_docusaurus_tree.svg';
 import Coach from '@site/static/img/undraw_docusaurus_react.svg';
 
-# Welcome to the Chase The Split Knowledge Base!
+# Welcome to Chase The Split!
 
 This site contains all the information you need to get up and running with Chase The Split and get the most out of the platform.
 
