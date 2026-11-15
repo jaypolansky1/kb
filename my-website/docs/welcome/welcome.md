@@ -11,13 +11,13 @@ import Coach from '@site/static/img/undraw_docusaurus_react.svg';
 
 Welcome to the Chase The Split Knowledge Base! This site contains all the information you need to get up and running with Chase The Split and get the most out of the platform. 
 
-**Select a category on the left pane to find an article.**
-
 import DocCardList from '@theme/DocCardList';
 
 <DocCardList items={[
-  {type: 'link', label: 'Getting Started', href: '/docs/getting-started', description: 'Set up and connect your account'},
-  {type: 'link', label: 'Features', href: '/docs/features', description: 'Records, pace progression, AI Coach'},
+  {type: 'link', label: 'Getting Started', href: '/docs/getting-started/connect-to-concept2-logbook', description: 'Set up and connect your account'},
+  {type: 'link', label: 'Features', href: '/docs/features/using-the-ai-assistant', description: 'Records, pace progression, AI Coach'},
+  {type: 'link', label: 'Understanding Your Data', href: 'understanding-your-data/how-to-change-your-pace-goal', description: 'Changing your pace goal, reading your efficiency charts},
+  {type: 'link', label: 'Troubleshooting', href: 'troubleshooting/how-to-reset-your-password', description: 'Resetting your passwords, troubleshooting workouts that won't sync'},
 ]} />
 
 Chase The Split contains many features to help track your workouts:
