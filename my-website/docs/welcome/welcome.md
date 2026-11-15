@@ -22,7 +22,7 @@ import DocCardList from '@theme/DocCardList';
   {type: 'link', label: 'Troubleshooting', href: 'troubleshooting/how-to-reset-your-password', description: 'Resetting your passwords, troubleshooting workouts not syncing'},
 ]} />
 
-Chase The Split contains many features to help track your workouts:
+## Chase The Split contains many features to help track your workouts:
 
 <div className="row">
   <div className="col col--4 text--center padding-horiz--md">
