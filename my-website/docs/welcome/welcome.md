@@ -9,7 +9,9 @@ import Mountain from '@site/static/img/undraw_docusaurus_mountain.svg';
 import Tree from '@site/static/img/undraw_docusaurus_tree.svg';
 import Coach from '@site/static/img/undraw_docusaurus_react.svg';
 
-**Welcome to the Chase The Split Knowledge Base! This site contains all the information you need to get up and running with Chase The Split and get the most out of the platform.**
+# Welcome to the Chase The Split Knowledge Base!
+
+This site contains all the information you need to get up and running with Chase The Split and get the most out of the platform.
 
 import DocCardList from '@theme/DocCardList';
 
@@ -20,7 +22,7 @@ import DocCardList from '@theme/DocCardList';
   {type: 'link', label: 'Troubleshooting', href: 'troubleshooting/how-to-reset-your-password', description: 'Resetting your passwords, troubleshooting workouts not syncing'},
 ]} />
 
-**Chase The Split contains many features to help track your workouts:**
+Chase The Split contains many features to help track your workouts:
 
 <div className="row">
   <div className="col col--4 text--center padding-horiz--md">
